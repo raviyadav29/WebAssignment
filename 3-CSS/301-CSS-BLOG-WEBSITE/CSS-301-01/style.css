@@ -1,1 +1,8 @@
 /* start your css here */
+body {
+    text-align: center;
+    margin: 100px;
+}
+p{
+    text-align: center;
+}
