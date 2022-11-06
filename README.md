@@ -39,10 +39,10 @@ How to use this repository
 | 1     | CSS   | [CSS BLOG WEBSITE](./3-CSS/301-CSS-BLOG-WEBSITE/) [CSS-301-01]               |      https://raviyadav29.github.io/WebAssignment/3-CSS/301-CSS-BLOG-WEBSITE/CSS-301-01/index.html       |
 | 2     | CSS   | [CSS BUILDING CAFE MENU](./3-CSS/302-CSS-Building-Cafe-Menu/)  [CSS-302-01]  |       https://raviyadav29.github.io/WebAssignment/3-CSS/302-CSS-Building-Cafe-Menu/CSS-302-01/index.html      |
 | 3     | CSS   | [CSS COLOR MAKER](./3-CSS/303-CSS-COLOR-MARKER/)     [CSS-303-01]            |       https://raviyadav29.github.io/WebAssignment/3-CSS/303-CSS-COLOR-MARKER/CSS-303-01/index.html      |
-| 4     | CSS   | [CSS-BOX-MODEL](./3-CSS/304-CSS-BOX-MODEL/)     [CSS-304-01]                 |             |
-| 4     | CSS   | [CSS-BOX-MODEL](./3-CSS/304-CSS-BOX-MODEL/)     [CSS-304-02]                 |             |
-| 4     | CSS   | [CSS-BOX-MODEL](./3-CSS/304-CSS-BOX-MODEL/)     [CSS-304-03]                 |             |
-| 4     | CSS   | [CSS-BOX-MODEL](./3-CSS/304-CSS-BOX-MODEL/)     [CSS-304-04]                 |             |
+| 4     | CSS   | [CSS-BOX-MODEL](./3-CSS/304-CSS-BOX-MODEL/)     [CSS-304-01]                 |       https://raviyadav29.github.io/WebAssignment/3-CSS/304-CSS-BOX-MODEL/CSS-304-01/index.html      |
+| 4     | CSS   | [CSS-BOX-MODEL](./3-CSS/304-CSS-BOX-MODEL/)     [CSS-304-02]                 |    https://raviyadav29.github.io/WebAssignment/3-CSS/304-CSS-BOX-MODEL/CSS-304-02/index.html         |
+| 4     | CSS   | [CSS-BOX-MODEL](./3-CSS/304-CSS-BOX-MODEL/)     [CSS-304-03]                 |      https://raviyadav29.github.io/WebAssignment/3-CSS/304-CSS-BOX-MODEL/CSS-304-03/index.html       |
+| 4     | CSS   | [CSS-BOX-MODEL](./3-CSS/304-CSS-BOX-MODEL/)     [CSS-304-04]                 |     https://raviyadav29.github.io/WebAssignment/3-CSS/304-CSS-BOX-MODEL/CSS-304-04/index.html        |
 | 5     | CSS   | [CSS-FLEXBOX](./3-CSS/305-CSS-Flexbox/)    [CSS-305-01]                      |             |
 | 5     | CSS   | [CSS-FLEXBOX](./3-CSS/305-CSS-Flexbox/)    [CSS-305-02]                      |             |
 | 5     | CSS   | [CSS-FLEXBOX](./3-CSS/305-CSS-Flexbox/)    [CSS-305-03]                      |             |
