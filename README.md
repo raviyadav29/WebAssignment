@@ -43,12 +43,12 @@ How to use this repository
 | 4     | CSS   | [CSS-BOX-MODEL](./3-CSS/304-CSS-BOX-MODEL/)     [CSS-304-02]                 |    https://raviyadav29.github.io/WebAssignment/3-CSS/304-CSS-BOX-MODEL/CSS-304-02/index.html         |
 | 4     | CSS   | [CSS-BOX-MODEL](./3-CSS/304-CSS-BOX-MODEL/)     [CSS-304-03]                 |      https://raviyadav29.github.io/WebAssignment/3-CSS/304-CSS-BOX-MODEL/CSS-304-03/index.html       |
 | 4     | CSS   | [CSS-BOX-MODEL](./3-CSS/304-CSS-BOX-MODEL/)     [CSS-304-04]                 |     https://raviyadav29.github.io/WebAssignment/3-CSS/304-CSS-BOX-MODEL/CSS-304-04/index.html        |
-| 5     | CSS   | [CSS-FLEXBOX](./3-CSS/305-CSS-Flexbox/)    [CSS-305-01]                      |             |
-| 5     | CSS   | [CSS-FLEXBOX](./3-CSS/305-CSS-Flexbox/)    [CSS-305-02]                      |             |
-| 5     | CSS   | [CSS-FLEXBOX](./3-CSS/305-CSS-Flexbox/)    [CSS-305-03]                      |             |
-| 5     | CSS   | [CSS-FLEXBOX](./3-CSS/305-CSS-Flexbox/)    [CSS-305-04]                      |             |
-| 5     | CSS   | [CSS-FLEXBOX](./3-CSS/305-CSS-Flexbox/)    [CSS-305-05]                      |             |
-| 5     | CSS   | [CSS-FLEXBOX](./3-CSS/305-CSS-Flexbox/)    [CSS-305-06]                      |             |
+| 5     | CSS   | [CSS-FLEXBOX](./3-CSS/305-CSS-Flexbox/)    [CSS-305-01]                      |       https://raviyadav29.github.io/WebAssignment/3-CSS/305-CSS-Flexbox/CSS-305-01/index.html      |
+| 5     | CSS   | [CSS-FLEXBOX](./3-CSS/305-CSS-Flexbox/)    [CSS-305-02]                      |      https://raviyadav29.github.io/WebAssignment/3-CSS/305-CSS-Flexbox/CSS-305-02/index.html       |
+| 5     | CSS   | [CSS-FLEXBOX](./3-CSS/305-CSS-Flexbox/)    [CSS-305-03]                      |      https://raviyadav29.github.io/WebAssignment/3-CSS/305-CSS-Flexbox/CSS-305-03/index.html       |
+| 5     | CSS   | [CSS-FLEXBOX](./3-CSS/305-CSS-Flexbox/)    [CSS-305-04]                      |      https://raviyadav29.github.io/WebAssignment/3-CSS/305-CSS-Flexbox/CSS-305-04/index.html       |
+| 5     | CSS   | [CSS-FLEXBOX](./3-CSS/305-CSS-Flexbox/)    [CSS-305-05]                      |     https://raviyadav29.github.io/WebAssignment/3-CSS/305-CSS-Flexbox/CSS-305-05/index.html        |
+| 5     | CSS   | [CSS-FLEXBOX](./3-CSS/305-CSS-Flexbox/)    [CSS-305-06]                      |     https://raviyadav29.github.io/WebAssignment/3-CSS/305-CSS-Flexbox/CSS-305-06/index.html        |
 | 6     | CSS   | [CSS-GRID](./3-CSS/306-CSS-Grid/)          [CSS-306-01]                      |             |
 | 6     | CSS   | [CSS-GRID](./3-CSS/306-CSS-Grid/)          [CSS-306-02]                      |             |
 | 6     | CSS   | [CSS-GRID](./3-CSS/306-CSS-Grid/)          [CSS-306-03]                      |             |
