@@ -4,6 +4,7 @@
     text-align: center;
     color: rgb(16, 11, 11);
     position: absolute;
+    border-radius: 10px;
     top: 26%;
     
     left: 70%;
@@ -31,10 +32,23 @@
     border: 3px solid black;
     padding: 12px 15px ;
     font-size: 20px;
+    border-radius: 10px;
 }
 #btn1{
-    width: 100px;
+    width: 150px;
     padding: 10px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+}
+#btn{
+    width: 90px;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: rgb(245, 234, 234);
+}
+body{
+    background-color: antiquewhite;
 }
 
 
